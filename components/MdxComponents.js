@@ -23,7 +23,7 @@ const CustomLink = (props) => {
     );
   }
 
-  return <a target="_blank" rel="noopener noreferrer" {...props} />;
+  return <a {...props} />;
 };
 
 const CustomImage = (props) => {

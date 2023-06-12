@@ -11,8 +11,6 @@ const Header = () => {
           The source code for this blog is{' '}
           <a
             href="https://github.com/Ibaslogic/nextjs-mdx-blog-rss"
-            target="_blank"
-            rel="noopener noreferrer"
             title="github"
           >
             available on GitHub
